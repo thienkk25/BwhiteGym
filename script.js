@@ -51,4 +51,3 @@ setInterval(() => {
         listCharUpdown[i].style.color = `#183D3D`;
     }
 }, 5000)
-
