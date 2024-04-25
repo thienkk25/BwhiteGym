@@ -124,4 +124,8 @@ a {
     #address {
         width: 100%;
     }
+
+    #vba {
+        width: 100% !important;
+    }
 }
